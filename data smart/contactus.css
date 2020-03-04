@@ -1,0 +1,115 @@
+.top{
+    margin: 15px 60px 0px 60px;
+    padding: 15px 80px 0px 80px;
+}
+.top a{
+  color: #1b1b1b;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: "Work Sans", sans-serif;
+}
+
+ 
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:22px;
+  color:#1b1b1b;
+  text-align:center;
+}
+
+
+p{
+  color:#919191;
+  font-size:12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align:center;
+}
+
+p1{
+  font-family: 'Source Sans Pro', sans-serif;
+  color:#1b1b1b;
+  font-size:16px;
+  max-width:10%;
+  line-height:40px;
+}
+h4{
+  color:#1b1b1b;
+  font-size:22px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+ h3{
+  color:#1b1b1b;
+  font-size:22px;
+  font-family: 'Source Sans Pro', sans-serif;
+ }
+
+ p2{
+  color:#1b1b1b;
+  font-size:16px;
+  font-family: 'Source Sans Pro', sans-serif;
+
+ }
+
+
+
+.honeypot-field {
+  display: none;
+  }
+
+
+/**BUTTON**/
+button{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 55px;
+    width: 250px;
+    opacity: 1;
+    background-color: #ffffff;
+    border: 3px solid #1b1b1b;
+    color: #1b1b1b;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 3px;
+  }
+  button:hover {
+    color: white;
+    background-color: #1b1b1b;
+  }
+
+
+  .float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+  }
+  
+  .my-float{
+    margin-top:16px;
+  }
+  
+.cp p{
+    font-size: 14px;
+    padding-left: 50px;
+    text-align: left;
+    font-weight: lighter;
+    font-family: 'Source Sans Pro', arial, sans-serif;
+  }
